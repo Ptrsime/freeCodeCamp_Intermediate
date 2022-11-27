@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diifTwoArrays.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ptrsime/freeCodeCamp_Intermediate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ptrsime/freeCodeCamp_Intermediate/issues"
+  },
+  "homepage": "https://github.com/Ptrsime/freeCodeCamp_Intermediate#readme"
+}
